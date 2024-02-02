@@ -1,2 +1,2 @@
 # KNN-predict_diabetes
-we creadted a model using KNN to predict person is affacted by diabetes or nor our model accuracy is 0.81.
+I creadted a model using KNN to predict person is affacted by diabetes or not. My model accuracy is 0.81.
